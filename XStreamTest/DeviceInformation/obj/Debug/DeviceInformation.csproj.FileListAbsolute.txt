@@ -1,0 +1,10 @@
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\DeviceInformation\bin\Debug\DeviceInformation.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\DeviceInformation\bin\Debug\DeviceInformation.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.pdb
+D:\BE project\XStream Codes\XStreamTest\DeviceInformation\bin\Debug\DeviceInformation.dll
+D:\BE project\XStream Codes\XStreamTest\DeviceInformation\bin\Debug\DeviceInformation.pdb
+D:\BE project\XStream Codes\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.csprojResolveAssemblyReference.cache
+D:\BE project\XStream Codes\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.dll
+D:\BE project\XStream Codes\XStreamTest\DeviceInformation\obj\Debug\DeviceInformation.pdb

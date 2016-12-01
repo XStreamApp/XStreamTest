@@ -1,0 +1,10 @@
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\ClientLib\bin\Debug\ClientLib.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\ClientLib\bin\Debug\ClientLib.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\ClientLib\obj\Debug\ClientLib.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\ClientLib\obj\Debug\ClientLib.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\ClientLib\obj\Debug\ClientLib.pdb
+D:\BE project\XStream Codes\XStreamTest\ClientLib\bin\Debug\ClientLib.dll
+D:\BE project\XStream Codes\XStreamTest\ClientLib\bin\Debug\ClientLib.pdb
+D:\BE project\XStream Codes\XStreamTest\ClientLib\obj\Debug\ClientLib.csprojResolveAssemblyReference.cache
+D:\BE project\XStream Codes\XStreamTest\ClientLib\obj\Debug\ClientLib.dll
+D:\BE project\XStream Codes\XStreamTest\ClientLib\obj\Debug\ClientLib.pdb

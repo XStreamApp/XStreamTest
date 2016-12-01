@@ -1,0 +1,14 @@
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\bin\Debug\GlobalFunctions.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\bin\Debug\GlobalFunctions.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\bin\Debug\DeviceInformation.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\bin\Debug\DeviceInformation.pdb
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.dll
+C:\Users\Nikhil\Documents\Visual Studio 2015\Projects\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.pdb
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\bin\Debug\GlobalFunctions.dll
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\bin\Debug\GlobalFunctions.pdb
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\bin\Debug\DeviceInformation.dll
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\bin\Debug\DeviceInformation.pdb
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.csprojResolveAssemblyReference.cache
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.dll
+D:\BE project\XStream Codes\XStreamTest\GlobalFunctions\obj\Debug\GlobalFunctions.pdb
